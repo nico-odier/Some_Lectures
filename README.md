@@ -10,3 +10,5 @@ Personal notes:
 - Differential geometry
 - General mechanics
 - Incompressible turbulence (Based on Frisch book.) Part2 to come.
+- Compressible LES (Based on Garnier / Sagaut book)
+- Compressible turbulence (Based on Chassaing, Antonia, Sarkar book)
